@@ -1,0 +1,20 @@
+{
+  "name": "setbased/abc-request-logger",
+  "description": "ABC-Framework: Request Logger Interface",
+  "keywords": [
+    "ABC",
+    "Framework",
+    "Request",
+    "Logger"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "SetBased\\Abc\\RequestLogger\\": "src/"
+    }
+  }
+}
