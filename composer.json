@@ -1,9 +1,8 @@
 {
   "name": "setbased/abc-request-logger",
-  "description": "ABC-Framework: Request Logger Interface",
+  "description": "ABC-Framework: Request Logger",
   "keywords": [
-    "ABC",
-    "Framework",
+    "ABC-Framework",
     "Request",
     "Logger"
   ],
