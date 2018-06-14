@@ -1,8 +1,7 @@
 <?php
-//----------------------------------------------------------------------------------------------------------------------
+
 namespace SetBased\Abc\RequestLogger;
 
-//----------------------------------------------------------------------------------------------------------------------
 /**
  * Interface for defining classes for logging HTTP page requests.
  */
@@ -19,7 +18,7 @@ interface RequestLogger
    * @api
    * @since 1.0.0
    */
-  public function logRequest($status);
+  public function logRequest(int $status): void;
 
   //--------------------------------------------------------------------------------------------------------------------
 }
