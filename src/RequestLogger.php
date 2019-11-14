@@ -19,7 +19,7 @@ interface RequestLogger
    * @api
    * @since 1.0.0
    */
-  public function logRequest(int $status): void;
+  public function logRequest(?int $status): void;
 
   //--------------------------------------------------------------------------------------------------------------------
 }
