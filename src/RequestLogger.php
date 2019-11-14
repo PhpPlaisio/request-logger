@@ -1,6 +1,7 @@
 <?php
+declare(strict_types=1);
 
-namespace SetBased\Abc\RequestLogger;
+namespace Plaisio\RequestLogger;
 
 /**
  * Interface for defining classes for logging HTTP page requests.
