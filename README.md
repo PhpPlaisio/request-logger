@@ -1,4 +1,4 @@
-# PhpPlaisio: request-logger
+# PhpPlaisio: Request Logger
 
 <table>
 <thead>
