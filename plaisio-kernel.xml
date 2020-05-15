@@ -1,0 +1,9 @@
+<kernel>
+    <properties>
+        <property>
+            <type>\Plaisio\RequestLogger\RequestLogger</type>
+            <name>requestLogger</name>
+            <description>The helper object for logging HTTP page requests.</description>
+        </property>
+    </properties>
+</kernel>
