@@ -12,7 +12,7 @@ interface RequestLogger
   /**
    * Logs the HTTP page request.
    *
-   * @param int $status The HTTP status code.
+   * @param int|null $status The HTTP status code.
    *
    * @return void
    *
